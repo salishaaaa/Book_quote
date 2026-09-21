@@ -10,14 +10,14 @@ This is the frontend for [Book Quote Finder](https://github.com/prasoonkandel/Bo
 
 It's designed for writers, researchers, and anyone looking for a special quote they remember partially. This application uses **semantic search** to find the most relevant quotes from a large book quote database.
 
-## Features
 
-- Search for relevant book quotes using semantic search
-- Find quotes from book quotes database
-- Find quotes based on your mood
-- Discovers relevant quotes database
-- Get information about specific quotes
-- Simple and responsive user interface
+## Features: 
+- Uses semantic search to find the most relevant book quotes
+- Find a book quote from our book quotes database
+- Get a book quote according to your mood
+- Find relavent book quotes to include in your writing
+- Find a book quote similar to you query
+- Beautiful and Modern Web UI/UX
 
 ## Tech Stack
 
